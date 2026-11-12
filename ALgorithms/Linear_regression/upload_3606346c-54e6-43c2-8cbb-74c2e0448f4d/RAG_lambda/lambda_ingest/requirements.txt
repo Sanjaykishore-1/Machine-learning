@@ -1,0 +1,4 @@
+boto3==1.35.99
+PyMuPDF==1.25.1
+chromadb==0.6.3
+openai==1.59.7
